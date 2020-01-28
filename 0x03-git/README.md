@@ -1,1 +1,1 @@
-Here you can find git concepts
+Here you can find some really cool concepts
